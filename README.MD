@@ -1,4 +1,4 @@
 # CRUD PET Cadastro
-## Aluno :Anderson Bale
-## Programação WEV
+## Aluno :Anderson Balestrin
+## Programação WEB
 ## Entrega trabalho FrontEnd e BackEnd VUjs
